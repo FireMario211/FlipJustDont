@@ -1,0 +1,9 @@
+[submodule "libs/gd.h"]
+	path = libs/gd.h
+	url = https://github.com/HJfod/gd.h
+[submodule "libs/minhook"]
+	path = libs/minhook
+	url = https://github.com/TsudaKageyu/minhook
+[submodule "CappuccinoSDK"]
+	path = CappuccinoSDK
+	url = https://github.com/AndreNIH/CappuccinoSDK
